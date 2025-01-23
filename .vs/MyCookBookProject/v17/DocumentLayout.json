@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\mycookbookprojectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\mycookbookprojectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyCookBookProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyCookBookProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:51:22.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyCookBookProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyCookBookProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:51:20.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:41:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCookBookProjectAPI.http",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.http",
+              "RelativeDocumentMoniker": "MyCookBookProjectAPI\\MyCookBookProjectAPI.http",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.http",
+              "RelativeToolTip": "MyCookBookProjectAPI\\MyCookBookProjectAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-23T19:40:27.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

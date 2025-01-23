@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MyCookBookProjectAPI.Controllers.RecipesController",
+    "Method": "GetRecipe",
+    "RelativePath": "api/recipes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
