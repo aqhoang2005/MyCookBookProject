@@ -32,3 +32,4 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProjectAPI\obj\Debug\net9.0\MyCookBookProjectAPI.genruntimeconfig.cache
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProjectAPI\obj\Debug\net9.0\ref\MyCookBookProjectAPI.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProjectAPI\obj\Debug\net9.0\MyCookBookProjectAPI.sourcelink.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProjectAPI\bin\Debug\net9.0\Newtonsoft.Json.dll

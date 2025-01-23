@@ -415,6 +415,9 @@
       "MyCookBookProject/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
         "compile": {
           "bin/placeholder/MyCookBookProject.dll": {}
         },
@@ -956,6 +959,7 @@
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.11.1",
       "MyCookBookProject >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.1",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -1018,6 +1022,10 @@
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.11.1, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
           },
           "coverlet.collector": {
             "target": "Package",

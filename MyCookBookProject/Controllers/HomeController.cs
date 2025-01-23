@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyCookBookProject.Models;
+using MyCookBookProject.Services;
 
 namespace MyCookBookProject.Controllers
 {
@@ -8,14 +9,17 @@ namespace MyCookBookProject.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly RecipeService _recipeService;
+        public HomeController(ILogger<HomeController> logger, RecipeService recipeService)
         {
             _logger = logger;
+            _recipeService = recipeService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var recipes = await _recipeService.GetRecipesAsync();
+            return View(recipes);
         }
 
         public IActionResult Privacy()

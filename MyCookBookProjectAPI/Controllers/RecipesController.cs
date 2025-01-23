@@ -1,32 +1,24 @@
 using Microsoft.AspNetCore.Mvc;
+using MyCookBookProjectAPI.Models;
 
 namespace MyCookBookProjectAPI.Controllers
 {
     [ApiController]
-    [Route("api/recipes")]
+    [Route("api/[controller]")]
 
     public class RecipesController : ControllerBase
     {
         [HttpGet]
-        public IActionResult GetRecipe()
+        public IActionResult GetRecipes()
         {
-            var recipe = new
+            return Ok(new List<Recipe>
             {
-                id = "1",
-                name = "Pancakes",
-                category = "Breakfast",
-                steps = new[]
-                {
-                    "Mix all ingredients in a bowl.",
+             new Recipe { name = "Pasta", Ingredients = new List<string> { "Pasta", "Tomato Sauce" }, Steps = "Boil pasta." },
+             new Recipe { name = "Salad", Ingredients = new List<string> { "Lettuce", "Tomatoes" }, Steps = "Mix all ingredients." }
 
-                    "Heat a pan and pour the batter.",
 
-                    "Cook until golden brown on both sides."
-                },
-                ingredients = new[] { "Flour", "Milk", "Egg", "Butter", "Sugar" }
-            };
-
-            return Ok(recipe);
+            });
         }
+        
     }
 }
