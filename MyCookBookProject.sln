@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCookBookProject", "MyCook
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCookBookProjectAPI", "MyCookBookProjectAPI\MyCookBookProjectAPI.csproj", "{DABA2B95-914D-4A01-B749-F608752065D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCookBookProject.Tests", "MyCookBookProject.Tests\MyCookBookProject.Tests.csproj", "{854846DD-7FAC-488B-9DF7-2332FA2C2797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DABA2B95-914D-4A01-B749-F608752065D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DABA2B95-914D-4A01-B749-F608752065D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DABA2B95-914D-4A01-B749-F608752065D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854846DD-7FAC-488B-9DF7-2332FA2C2797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854846DD-7FAC-488B-9DF7-2332FA2C2797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854846DD-7FAC-488B-9DF7-2332FA2C2797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854846DD-7FAC-488B-9DF7-2332FA2C2797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
