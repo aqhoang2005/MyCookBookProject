@@ -97,3 +97,14 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\obj\Debug\net9.0\MyCookBookProject.Tests.pdb
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\obj\Debug\net9.0\MyCookBookProject.Tests.genruntimeconfig.cache
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\obj\Debug\net9.0\ref\MyCookBookProject.Tests.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_MyCookBookProject.Tests
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_MyCookBookProject.Tests
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.deps.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.runtimeconfig.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\appsettings.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.staticwebassets.runtime.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.staticwebassets.endpoints.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.exe
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.pdb

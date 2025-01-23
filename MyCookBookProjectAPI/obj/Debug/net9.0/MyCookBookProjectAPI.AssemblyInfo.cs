@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCookBookProjectAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9961705a47592fc5ad94735b90b80140f9ddbbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34773c809759ceaa73f3951afe7a04ebf10348ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCookBookProjectAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCookBookProjectAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
