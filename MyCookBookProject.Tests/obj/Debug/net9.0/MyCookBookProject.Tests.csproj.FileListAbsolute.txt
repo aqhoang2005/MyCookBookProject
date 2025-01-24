@@ -108,3 +108,11 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.exe
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProject.pdb
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.deps.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.runtimeconfig.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.staticwebassets.endpoints.json
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.exe
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.pdb

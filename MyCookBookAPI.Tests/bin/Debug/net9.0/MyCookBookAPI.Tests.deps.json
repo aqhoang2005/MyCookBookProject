@@ -362,7 +362,8 @@
       "xunit.runner.visualstudio/2.8.2": {},
       "MyCookBookProjectAPI/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": "9.0.0"
+          "Microsoft.AspNetCore.OpenApi": "9.0.0",
+          "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "MyCookBookProjectAPI.dll": {

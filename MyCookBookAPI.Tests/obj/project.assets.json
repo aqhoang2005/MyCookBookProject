@@ -448,7 +448,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": "9.0.0"
+          "Microsoft.AspNetCore.OpenApi": "9.0.0",
+          "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
           "bin/placeholder/MyCookBookProjectAPI.dll": {}

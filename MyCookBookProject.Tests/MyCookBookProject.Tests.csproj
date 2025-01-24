@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MyCookBookProject\MyCookBookProject.csproj" />
+    <ProjectReference Include="..\MyCookBookProjectAPI\MyCookBookProjectAPI.csproj" />
   </ItemGroup>
 
 </Project>

@@ -8,6 +8,25 @@
           "build/netstandard2.0/coverlet.collector.targets": {}
         }
       },
+      "Microsoft.AspNetCore.OpenApi/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.17"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.CodeCoverage/17.11.1": {
         "type": "package",
         "compile": {
@@ -39,6 +58,19 @@
         },
         "buildMultiTargeting": {
           "buildMultiTargeting/Microsoft.NET.Test.Sdk.props": {}
+        }
+      },
+      "Microsoft.OpenApi/1.6.17": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.TestPlatform.ObjectModel/17.11.1": {
@@ -427,6 +459,23 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "MyCookBookProjectAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "9.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/MyCookBookProjectAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCookBookProjectAPI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -499,6 +548,22 @@
         "coverlet-icon.png",
         "coverlet.collector.6.0.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.OpenApi/9.0.0": {
+      "sha512": "FqUK5j1EOPNuFT7IafltZQ3cakqhSwVzH5ZW1MhZDe4pPXs9sJ2M5jom1Omsu+mwF2tNKKlRAzLRHQTZzbd+6Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.openapi/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll",
+        "lib/net9.0/Microsoft.AspNetCore.OpenApi.xml",
+        "microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/17.11.1": {
@@ -587,6 +652,21 @@
         "lib/netcoreapp3.1/_._",
         "microsoft.net.test.sdk.17.11.1.nupkg.sha512",
         "microsoft.net.test.sdk.nuspec"
+      ]
+    },
+    "Microsoft.OpenApi/1.6.17": {
+      "sha512": "Le+kehlmrlQfuDFUt1zZ2dVwrhFQtKREdKBo+rexOwaCoYP0/qpgT9tLxCsZjsgR5Itk1UKPcbgO+FyaNid/bA==",
+      "type": "package",
+      "path": "microsoft.openapi/1.6.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.6.17.nupkg.sha512",
+        "microsoft.openapi.nuspec"
       ]
     },
     "Microsoft.TestPlatform.ObjectModel/17.11.1": {
@@ -953,12 +1033,18 @@
       "type": "project",
       "path": "../MyCookBookProject/MyCookBookProject.csproj",
       "msbuildProject": "../MyCookBookProject/MyCookBookProject.csproj"
+    },
+    "MyCookBookProjectAPI/1.0.0": {
+      "type": "project",
+      "path": "../MyCookBookProjectAPI/MyCookBookProjectAPI.csproj",
+      "msbuildProject": "../MyCookBookProjectAPI/MyCookBookProjectAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.11.1",
       "MyCookBookProject >= 1.0.0",
+      "MyCookBookProjectAPI >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -997,6 +1083,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj": {
+              "projectPath": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj"
+            },
             "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\MyCookBookProject.csproj": {
               "projectPath": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\MyCookBookProject.csproj"
             }
