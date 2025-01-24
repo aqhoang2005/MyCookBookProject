@@ -9,9 +9,9 @@
                 <div class="col-md-6 mb-4">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">@recipe.Name</h5>
+                            <h5 class="card-title">@recipe.name</h5>
                             <p class="cardtext">
-                                <strong>Ingredients:</strong> @string.Join(", ", recipe.Ingreidents)
+                                <strong>Ingredients:</strong> @string.Join(", ", recipe.Ingreidents ?? Enumerable.Empty<string>())
                             </p>
                             <p class="cardtext"><strong>Steps:</strong> @recipe.Steps</p>
                         </div>
@@ -23,8 +23,7 @@
         {
             <div class="col-12">
                 <p class="text-center">
-                    No recipes available at the
-                    moment. Please check back later!
+                    No recipes available at moment. Please check back later!
                 </p>
             </div>
         }
