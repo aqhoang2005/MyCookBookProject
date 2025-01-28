@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,20 +59,12 @@
       "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,37 +86,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RecipeModelTests.cs",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject.Tests\\RecipeModelTests.cs",
-              "RelativeDocumentMoniker": "MyCookBookProject.Tests\\RecipeModelTests.cs",
-              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject.Tests\\RecipeModelTests.cs",
-              "RelativeToolTip": "MyCookBookProject.Tests\\RecipeModelTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T01:00:07.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Recipe\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Recipe\\Index.cshtml",
-              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Recipe\\Index.cshtml",
-              "RelativeToolTip": "MyCookBookProject\\Views\\Recipe\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T22:10:05.761Z",
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MyCookBookProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-28T22:22:00.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Models\\Recipe.cs",
@@ -125,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MyCookBookProject\\Views\\_ViewStart.cshtml",
@@ -133,12 +124,11 @@
               "RelativeToolTip": "MyCookBookProject\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T22:18:12.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:18:12.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MyCookBookProject\\Views\\_ViewImports.cshtml",
@@ -146,12 +136,11 @@
               "RelativeToolTip": "MyCookBookProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T22:18:15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:18:15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Program.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Program.cs",
@@ -159,12 +148,11 @@
               "RelativeToolTip": "MyCookBookProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:04:21.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:04:21.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Program.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Program.cs",
@@ -172,12 +160,11 @@
               "RelativeToolTip": "MyCookBookProjectAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T21:28:47.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T21:28:47.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Models\\Recipe.cs",
@@ -185,12 +172,61 @@
               "RelativeToolTip": "MyCookBookProjectAPI\\Models\\Recipe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T21:03:08.065Z",
+              "WhenOpened": "2025-01-23T21:03:08.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:18:27.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyCookBookProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:14:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Recipe\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Recipe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Recipe\\Index.cshtml",
+              "RelativeToolTip": "MyCookBookProject\\Views\\Recipe\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:10:05.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipeModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject.Tests\\RecipeModelTests.cs",
+              "RelativeDocumentMoniker": "MyCookBookProject.Tests\\RecipeModelTests.cs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject.Tests\\RecipeModelTests.cs",
+              "RelativeToolTip": "MyCookBookProject.Tests\\RecipeModelTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:00:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RecipesController.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
@@ -198,24 +234,11 @@
               "RelativeToolTip": "MyCookBookProjectAPI\\Controllers\\RecipesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:41:15.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T19:41:15.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MyCookBookProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T22:14:36.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "RecipeService.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Services\\RecipeService.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Services\\RecipeService.cs",
@@ -227,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Controllers\\RecipeController.cs",
@@ -239,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Controllers\\HomeController.cs",
@@ -251,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "RecipeModelTests.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookAPI.Tests\\RecipeModelTests.cs",
               "RelativeDocumentMoniker": "MyCookBookAPI.Tests\\RecipeModelTests.cs",
@@ -263,19 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyCookBookProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T22:18:27.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MyCookBookProjectAPI.csproj",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj",
@@ -287,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Models\\ErrorViewModel.cs",
@@ -299,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MyCookBookProjectAPI.http",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.http",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\MyCookBookProjectAPI.http",
