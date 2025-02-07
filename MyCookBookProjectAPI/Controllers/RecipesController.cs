@@ -23,19 +23,31 @@ namespace MyCookBookProjectAPI.Controllers
         }
 
         [HttpPost("search")]
-        public IActionResult Search([FromBody] RecipeSearchRequest request) 
-        { 
-            if (string.IsNullOrWhiteSpace(request.Query))
+        public IActionResult Search([FromBody] RecipeSearchRequest request)
+        {
+            // Check if the request body is null or if Query is empty
+            if (request == null || string.IsNullOrWhiteSpace(request.Query))
             {
-                return BadRequest("Query cannot be empty.");
+                return BadRequest(new { error = "Query cannot be empty." });
             }
-            var results = Recipe.Where(r => r.Name.Contains(rquest.Query,System.StringComparison.OrdinalIgnoreCase)).ToList();
-            return Ok(results);
-        
-        
-        
-        
+
+            Console.WriteLine($"[DEBUG] Query: {request.Query}");
+
+            // Filter the recipes based on the query
+            var results = _recipes
+                .Where(r => r.name.Contains(request.Query, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            return Ok(results);  // Return the filtered recipe results
         }
 
+
+
+        [HttpPost("test")]
+        public IActionResult Test([FromBody] object requestBody)
+        {
+            Console.WriteLine($"[DEBUG] Raw Request: {requestBody}");
+            return Ok(requestBody);
+        }
     }
 }
