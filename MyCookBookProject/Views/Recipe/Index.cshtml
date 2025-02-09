@@ -1,6 +1,15 @@
 ﻿@model List<MyCookBookProject.Models.Recipe>
 <div class="container mt-5">
     <h1 class="display-4 text-center mb-4">Recipes</h1>
+
+    <!-- Search Form -->
+    <form asp-action="Search" method="get" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="query" class="form-control"
+                   placeholder="Search recipes..." required />
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
     <div class="row">
         @if (Model != null && Model.Any())
         {
@@ -10,10 +19,14 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">@recipe.name</h5>
-                            <p class="cardtext">
-                                <strong>Ingredients:</strong> @string.Join(", ", recipe.Ingredients ?? Enumerable.Empty<string>())
+                            <p class="card-text">
+                                <strong>Ingredients:</strong>
+                                @string.Join(", ", recipe.Ingredients)
                             </p>
-                            <p class="cardtext"><strong>Steps:</strong> @recipe.Steps</p>
+                            <p class="card-text">
+                                <strong>Steps:</strong>
+                                @recipe.Steps
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -23,7 +36,8 @@
         {
             <div class="col-12">
                 <p class="text-center">
-                    No recipes available at moment. Please check back later!
+                    No recipes available at the moment. Please
+                    check back later!
                 </p>
             </div>
         }

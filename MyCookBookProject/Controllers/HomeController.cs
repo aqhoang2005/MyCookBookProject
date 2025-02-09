@@ -15,12 +15,12 @@ namespace MyCookBookProject.Controllers
             _logger = logger;
             _recipeService = recipeService;
         }
-
+/*
         public async Task<IActionResult> Index()
         {
             var recipes = await _recipeService.GetRecipesAsync();
             return View(recipes);
-        }
+        }*/
 
         public IActionResult Privacy()
         {

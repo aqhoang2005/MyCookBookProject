@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E5hs8kVhPJvNs1XlQY+1K25lQqOtK9YwktVvcYiDbXM=",
+  "Hash": "WWi0eXYHSjlD8d6D+eHv82dhgrzrNrIbbYyXDsJ2sNc=",
   "Source": "MyCookBookProject",
   "BasePath": "_content/MyCookBookProject",
   "Mode": "Default",
@@ -731,12 +731,12 @@
       "OriginalItemSpec": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-cosvhxvwiu.gz",
+      "Identity": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-p4v7i4fvmh.gz",
       "SourceId": "MyCookBookProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyCookBookProject",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint=cosvhxvwiu}]?.map.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint=p4v7i4fvmh}]?.map.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -745,8 +745,8 @@
       "RelatedAsset": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f178oapzb7",
-      "Integrity": "XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM=",
+      "Fingerprint": "noxhvnjkwy",
+      "Integrity": "OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
@@ -1690,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cosvhxvwiu",
-      "Integrity": "7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q=",
+      "Fingerprint": "p4v7i4fvmh",
+      "Integrity": "WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
@@ -5945,167 +5945,6 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-cosvhxvwiu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000070952178"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14093"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 19:33:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cosvhxvwiu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "116063"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 19:33:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cosvhxvwiu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map.gz",
-      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-cosvhxvwiu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14093"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 19:33:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cosvhxvwiu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.gz",
       "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\brij9m49pm-k8d9w2qqmf.gz",
       "Selectors": [],
@@ -6152,12 +5991,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-cosvhxvwiu.gz",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-p4v7i4fvmh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000070952178"
+          "Quality": "0.000072317038"
         }
       ],
       "ResponseHeaders": [
@@ -6167,15 +6006,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14093"
+          "Value": "13827"
         },
         {
           "Name": "ETag",
-          "Value": "\"XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM=\""
+          "Value": "\"OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 19:33:03 GMT"
+          "Value": "Fri, 07 Feb 2025 14:21:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6195,13 +6034,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q=\""
+          "Value": "W/\"WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q="
+          "Value": "sha256-WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA="
         }
       ]
     },
@@ -6216,7 +6055,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "116063"
+          "Value": "116065"
         },
         {
           "Name": "Content-Type",
@@ -6224,11 +6063,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q=\""
+          "Value": "\"WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 19:33:03 GMT"
+          "Value": "Fri, 07 Feb 2025 14:21:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6238,13 +6077,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7GdOlw7U/wgyaeUtFmxPz5/MphdvVSPtVOOlTn9c33Q="
+          "Value": "sha256-WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map.gz",
-      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-cosvhxvwiu.gz",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-p4v7i4fvmh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6253,7 +6092,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14093"
+          "Value": "13827"
         },
         {
           "Name": "Content-Type",
@@ -6261,11 +6100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM=\""
+          "Value": "\"OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 19:33:03 GMT"
+          "Value": "Fri, 07 Feb 2025 14:21:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6283,7 +6122,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XVqmPhc00T/7zYDUfSy4bYaZ4YjTbapktP6tFnzH6xM="
+          "Value": "sha256-OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.p4v7i4fvmh.map",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-p4v7i4fvmh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000072317038"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13827"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 14:21:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p4v7i4fvmh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.p4v7i4fvmh.map",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 14:21:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p4v7i4fvmh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WSvjwoO8QFNrrq8SJV5XDXOvEZFEtggax0X4oq5OhxA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.p4v7i4fvmh.map.gz",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\obj\\Debug\\net9.0\\compressed\\hi9iy8yxp3-p4v7i4fvmh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 14:21:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p4v7i4fvmh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdAQTvSZbYjDHxOqB3nFSyqDBGqF39+vmobvUH0/CWY="
         }
       ]
     },

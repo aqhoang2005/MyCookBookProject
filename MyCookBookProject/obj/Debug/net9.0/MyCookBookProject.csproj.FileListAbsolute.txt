@@ -27,7 +27,6 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\m9m7hou029-d7shbmvgxk.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\n849xh1d22-ausgxo2sd3.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\brij9m49pm-k8d9w2qqmf.gz
-C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\hi9iy8yxp3-cosvhxvwiu.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\fu92rdxl08-ub07r2b239.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\zwv30va2hs-fvhpjtyr6v.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\23kccm10qg-b7pk76d08c.gz
@@ -100,3 +99,7 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\MyCookBo.CC7E6C93.Up2Date
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\iji88ppxie-ugliu9qabv.gz
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\hi9iy8yxp3-p4v7i4fvmh.gz
