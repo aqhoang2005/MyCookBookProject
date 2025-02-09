@@ -1,53 +1,42 @@
 using Microsoft.AspNetCore.Mvc;
 using MyCookBookProjectAPI.Models;
 
-namespace MyCookBookProjectAPI.Controllers
+[ApiController]
+[Route("api/[controller]")]
+
+public class RecipeController : ControllerBase
 {
-    [ApiController]
-    [Route("api/[controller]")]
-
-    public class RecipesController : ControllerBase
+    private static readonly List<Recipe> Recipes = new List<Recipe>
     {
-        private static readonly List<Recipe> _recipes = new List<Recipe>()
-        {
-             new Recipe { name = "Pasta", Ingredients = new List<string> { "Pasta", "Tomato Sauce" }, Steps = "Boil pasta." },
-             new Recipe { name = "Salad", Ingredients = new List<string> { "Lettuce", "Tomatoes" }, Steps = "Mix all ingredients." },
-             new Recipe { name = "Egg Fried Rice", Ingredients = new List<string> {"Rice, Meat of Choice, Eggs, Oil, Onions, Garlic"}, Steps = "Stir ingredients together on an oventop." }
+        new Recipe{name = "Pasta", Ingredients = new List<string> {"Pasta", "Tomato Sauce" }, Steps = "Boil pasta and mix with sauce." },
+        new Recipe{name = "Salad", Ingredients = new List<string> {"Lettuce", "Tomatoes", "Cucumbers" }, Steps = "Chop and mix ingredients." },
+        new Recipe{name = "Fried Rice", Ingredients = new List<string> {"Rice", "Eggs", "Meat" }, Steps = "Cook rice and mix with meat and eggs in pan." }
 
-        };
+    };
 
-        [HttpGet]
-        public IActionResult GetRecipes()
+    [HttpGet]
+    public IActionResult GetRecipes()
+    {
+        return Ok(Recipes);
+    }
+
+    [HttpPost("search")]
+    public IActionResult Search([FromBody] RecipeSearchRequest request)
+    {
+        if (request == null)
         {
-            return Ok(_recipes);
+            return BadRequest("Request body is null.");
         }
 
-        [HttpPost("search")]
-        public IActionResult Search([FromBody] RecipeSearchRequest request)
+        if (string.IsNullOrWhiteSpace(request.Query))
         {
-            // Check if the request body is null or if Query is empty
-            if (request == null || string.IsNullOrWhiteSpace(request.Query))
-            {
-                return BadRequest(new { error = "Query cannot be empty." });
-            }
-
-            Console.WriteLine($"[DEBUG] Query: {request.Query}");
-
-            // Filter the recipes based on the query
-            var results = _recipes
-                .Where(r => r.name.Contains(request.Query, StringComparison.OrdinalIgnoreCase))
-                .ToList();
-
-            return Ok(results);  // Return the filtered recipe results
+            return BadRequest("Query cannot be empty.");
         }
 
+        var results = Recipes
+            .Where(r => r.name.Contains(request.Query, System.StringComparison.OrdinalIgnoreCase))
+            .ToList();
 
-
-        [HttpPost("test")]
-        public IActionResult Test([FromBody] object requestBody)
-        {
-            Console.WriteLine($"[DEBUG] Raw Request: {requestBody}");
-            return Ok(requestBody);
-        }
+        return Ok(results);
     }
 }
