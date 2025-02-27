@@ -5,7 +5,7 @@ namespace MyCookBookProjectAPI.Models
 {
     public class RecipeSearchRequest : ControllerBase
     {
-        [Required(ErrorMessage = "Query field is required.")]
-        public string Query { get; set; }
+      public string keyWord { get; set; }
+        public List<CategoryType> categoryTypes { get; set; }= new List<CategoryType>();
     }
 }
