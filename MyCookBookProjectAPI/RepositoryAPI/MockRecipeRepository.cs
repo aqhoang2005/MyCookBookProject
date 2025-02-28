@@ -95,8 +95,8 @@ namespace MyCookBookProjectAPI.RepositoryAPI
                 .Where(r => (string.IsNullOrEmpty(searchRequest.keyWord) ||
                 r.name.Contains(searchRequest.keyWord, StringComparison.OrdinalIgnoreCase) ||
                 r.summary.Contains(searchRequest.keyWord, StringComparison.OrdinalIgnoreCase)) &&
-                ((searchRequest.Categories == null || searchRequest.Categories.Count == 0) ||
-                r.Categories.Any(c=> searchRequest.Categories.Contains(c)))
+                ((searchRequest.categoryTypes == null || searchRequest.categoryTypes.Count == 0) ||
+                r.Categories.Any(c=> searchRequest.categoryTypes.Contains(c)))
                 )
                 .ToList();
         }
