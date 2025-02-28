@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace MyCookBookProjectAPI.RepositoryAPI
 {
-    public class MockRecipeRepository
+    public class MockRecipeRepository : IRecipeRepository
     {
         private readonly List<Recipe> _recipes = new()
         {
@@ -114,6 +114,14 @@ namespace MyCookBookProjectAPI.RepositoryAPI
         {
             var index = _recipes.FindIndex(r => r.recipeID == id);
             if (index == -1) return false;
+            return true;
+        }
+
+        public bool DeleteRecipe(string id)
+        {
+            var recipe = GetRecipeByID(id);
+            if (recipe == null) return false;
+            _recipes.Remove(recipe);
             return true;
         }
 
