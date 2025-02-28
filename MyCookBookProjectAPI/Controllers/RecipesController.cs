@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using MyCookBookProjectAPI.ServicesAPI;
 using MyCookBookProjectAPI.Models;
+
+
 
 [ApiController]
 [Route("api/[controller]")]
@@ -38,7 +41,7 @@ public class RecipeController : ControllerBase
             return BadRequest("Invalid search request.");
         }
 
-        searchRequest.Categories ?? = new List<string>();
+        searchRequest.categoryTypes ??= new List<CategoryType>();
 
         var recipes = _recipeService.SearchRecipes(searchRequest);
         return Ok(recipes);
