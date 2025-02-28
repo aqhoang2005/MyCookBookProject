@@ -6,37 +6,56 @@ using MyCookBookProjectAPI.Models;
 
 public class RecipeController : ControllerBase
 {
-    private static readonly List<Recipe> Recipes = new List<Recipe>
-    {
-        new Recipe{name = "Pasta", Ingredients = new List<string> {"Pasta", "Tomato Sauce" }, Steps = "Boil pasta and mix with sauce." },
-        new Recipe{name = "Salad", Ingredients = new List<string> {"Lettuce", "Tomatoes", "Cucumbers" }, Steps = "Chop and mix ingredients." },
-        new Recipe{name = "Fried Rice", Ingredients = new List<string> {"Rice", "Eggs", "Meat" }, Steps = "Cook rice and mix with meat and eggs in pan." }
+    private readonly IRecipeService _recipeService;
 
-    };
+    public RecipeController(IRecipeService recipeService)
+    {
+        _recipeService = recipeService;
+    }
 
     [HttpGet]
-    public IActionResult GetRecipes()
+    public ActionResult<IEnumerable<Recipe>> GetAllRecipe()
     {
-        return Ok(Recipes);
+        return _recipeService.GetAllRecipes();
+    }
+
+    [HttpGet("{id}")]
+    public ActionResult<Recipe> GetRecipeByID(string id)
+    {
+        var recipe = _recipeService.GetRecipeByID(id);
+        if (recipe == null)
+        {
+            return NotFound();
+        }
+        return Ok(recipe);
     }
 
     [HttpPost("search")]
-    public IActionResult Search([FromBody] RecipeSearchRequest request)
+    public ActionResult<IEnumerable<Recipe>> SearchRecipes([FromBody]RecipeSearchRequest searchRequest)
     {
-        if (request == null)
+        if (searchRequest == null)
         {
-            return BadRequest("Request body is null.");
+            return BadRequest("Invalid search request.");
         }
 
-        if (string.IsNullOrWhiteSpace(request.Query))
+        searchRequest.Categories ?? = new List<string>();
+
+        var recipes = _recipeService.SearchRecipes(searchRequest);
+        return Ok(recipes);
+    }
+
+
+    [HttpPost]
+    public ActionResult<Recipe> CreateRecipe([FromBody] Recipe recipe)
+    {
+        if (recipe == null || string.IsNullOrWhiteSpace(recipe.name))
         {
-            return BadRequest("Query cannot be empty.");
+            return BadRequest("Invalid recipe data.");
         }
 
-        var results = Recipes
-            .Where(r => r.name.Contains(request.Query, System.StringComparison.OrdinalIgnoreCase))
-            .ToList();
+        recipe.recipeID = Guid.NewGuid().ToString();
 
-        return Ok(results);
+        _recipeService.AddRecipe(recipe);
+        return CreatedAtAction(nameof(GetRecipeByID), new { id = recipe.recipeID }, recipe);
     }
 }
