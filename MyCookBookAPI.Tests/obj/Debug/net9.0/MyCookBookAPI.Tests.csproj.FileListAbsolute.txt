@@ -1,8 +1,6 @@
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\testhost.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
-C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\MyCookBookAPI.Tests.deps.json
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\MyCookBookAPI.Tests.runtimeconfig.json
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\MyCookBookAPI.Tests.dll
@@ -109,3 +107,8 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\MyCookBookProjectAPI.pdb
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\Moq.dll
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookAPI.Tests\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll

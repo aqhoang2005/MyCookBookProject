@@ -17,7 +17,6 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\scopedcss\bundle\MyCookBookProject.styles.css
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\scopedcss\projectbundle\MyCookBookProject.bundle.scp.css
-C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\q3j3z5w2k9-b9sayid5wm.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\22z6ejorsp-61n19gt1b8.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\iqcr4f6rvc-xtxxf3hu2r.gz
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\5c6vqdzt57-bqjiyaj88i.gz
@@ -103,3 +102,5 @@ C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\My
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\hi9iy8yxp3-p4v7i4fvmh.gz
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\q3j3z5w2k9-1jipvluq1k.gz
+C:\Users\austi\OneDrive - SNHU\CS-320 Project\MyCookBookApp\MyCookBookProject\MyCookBookProject\obj\Debug\net9.0\compressed\qdit3hbqgo-tslf6mfh3p.gz

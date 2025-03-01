@@ -17,14 +17,12 @@ namespace MyCookBookProject.Tests
             var recipe = new Recipe
             {
                 name = "Salad",
-                Ingredients = new List<string> { "Lettuce", "Tomatoes", "Dressing" },
-                Steps = "Mix ingredients together."
+                ingredients = new List<string> { "Lettuce", "Tomatoes", "Dressing" },
             };
 
             //Assert
             Assert.Equal("Salad", recipe.name);
-            Assert.Contains("Tomatoes", recipe.Ingredients);
-            Assert.Equal("Mix ingredients together.", recipe.Steps);
+            Assert.Contains("Tomatoes", recipe.ingredients);
         }
     }
 }

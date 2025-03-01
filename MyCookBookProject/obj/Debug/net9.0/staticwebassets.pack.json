@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\austin.jpg"
     },
     {
+      "Id": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\js\\recipes.js",
+      "PackagePath": "staticwebassets\\js\\recipes.js"
+    },
+    {
       "Id": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

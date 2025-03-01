@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
-using MyCookBookProjectAPI.Controllers;
+using MyCookBookProjectAPI.Models;
 using MyCookBookProjectAPI.RepositoryAPI;
 using MyCookBookProjectAPI.ServicesAPI;
 

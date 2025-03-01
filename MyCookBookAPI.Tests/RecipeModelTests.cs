@@ -17,13 +17,11 @@ namespace MyCookBookAPI.Tests
             var recipe = new Recipe
             {
                 name = "Pasta",
-                Ingredients = new List<string> { "Pasta", "Tomato Sauce" },
-                Steps = "Boil pasta."
+                ingredients = new List<string> { "Pasta", "Tomato Sauce" },
             };
             // Assert
             Assert.Equal("Pasta", recipe.name);
-            Assert.Contains("Tomato Sauce", recipe.Ingredients);
-            Assert.Equal("Boil pasta.", recipe.Steps);
+            Assert.Contains("Tomato Sauce", recipe.ingredients);
         }
     }
 }

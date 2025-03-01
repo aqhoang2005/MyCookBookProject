@@ -16,7 +16,7 @@ namespace MyCookBookProject.Controllers
     {
         private readonly RecipeService _recipeService;
 
-        public RecipeController(ref RecipeService recipeService)
+        public RecipeController(RecipeService recipeService)
         {
             _recipeService = recipeService;
         }
