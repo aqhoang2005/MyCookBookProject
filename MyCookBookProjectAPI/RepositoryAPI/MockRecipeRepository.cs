@@ -114,6 +114,7 @@ namespace MyCookBookProjectAPI.RepositoryAPI
         {
             var index = _recipes.FindIndex(r => r.recipeID == id);
             if (index == -1) return false;
+            _recipes[index] = updatedRecipe;
             return true;
         }
 
