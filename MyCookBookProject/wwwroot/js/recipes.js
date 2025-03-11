@@ -145,7 +145,7 @@
             let imageUrl = recipe.media && recipe.media.length > 0 ?
                 recipe.media[0].url : "placeholder.jpg";
             // let categories = recipe.categories ? recipe.categories.join(" | ") :
-            "N/A";
+            /*"N/A";*/
             // Convert category numbers to text labels
             let categoriesText = (recipe.categories || []).map(catId =>
                 categoryMapping[catId] || "Unknown").join(" | ");
@@ -164,12 +164,12 @@
 <p class="card-text">${recipe.summary || "No summary available."}</p>
                 < h6 > Ingredients</h6 >
                     <p class="card-text">${recipe.ingredients ?
-                        recipe.ingredients.join(", ") : "N/A"}</p>
+                    recipe.ingredients.join(", ") : "N/A"}</p>
  </div >
                 <div class="col-md-6">
                     <h6>Instructions</h6>
                     <p class="card-text">${recipe.instructions ?
-                        recipe.instructions.join("<br>") : "N/A"}</p>
+                    recipe.instructions.join("<br>") : "N/A"}</p>
                 </div>
  </div >
  </div >
@@ -179,7 +179,7 @@
                 </div>
  </div >
  </div > `;
- cardContainer.innerHTML += card;
- });
- }
+            cardContainer.innerHTML += card;
+        });
+    }
 });

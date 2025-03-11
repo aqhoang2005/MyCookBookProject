@@ -1,6 +1,0 @@
-@MyCookBookProjectAPI_HostAddress = http://localhost:5171
-
-GET {{MyCookBookProjectAPI_HostAddress}}/api/recipes
-Accept: application/json
-
-###
