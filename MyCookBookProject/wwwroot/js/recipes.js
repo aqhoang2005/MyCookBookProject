@@ -71,8 +71,8 @@
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(recipe)
         })
-        then(response => response.json())
-            .then(data => {
+        .then(response => response.json())
+        .then(data => {
                 if (data.success) {
                     console.log("Recipe added successfully!");
                     // Close the modal
@@ -82,7 +82,7 @@
                     // Refresh the page after a slight delay
                     setTimeout(() => {
                         location.reload();
-                    }, 500); // 500ms delay to ensure UI updates smoothly
+                    }, 360); // 500ms delay to ensure UI updates smoothly
                 } else {
                     alert("Failed to add recipe: " + data.message);
                 }
@@ -162,7 +162,7 @@
  <div class="col-md-6">
  <h6>Chef's Note</h6>
 <p class="card-text">${recipe.summary || "No summary available."}</p>
-                < h6 > Ingredients</h6 >
+                <h6> Ingredients</h6 >
                     <p class="card-text">${recipe.ingredients ?
                     recipe.ingredients.join(", ") : "N/A"}</p>
  </div >
