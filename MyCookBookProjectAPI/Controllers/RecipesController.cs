@@ -61,4 +61,22 @@ public class RecipeController : ControllerBase
         _recipeService.AddRecipe(recipe);
         return CreatedAtAction(nameof(GetRecipeByID), new { id = recipe.recipeID }, recipe);
     }
+
+    [HttpPut("{id}")]
+    public IActionResult UpdateRecipe(string id, [FromBody] Recipe recipe)
+    {
+        if (recipe == null || string.IsNullOrWhiteSpace(recipe.name))
+        {
+            return BadRequest("Invalid recipe data.");
+        }
+        var updated = _recipeService.UpdateRecipe(id, recipe);
+        if (!updated)
+        {
+            return NotFound();
+        }
+        return NoContent();
+    }
+
+
+
 }
