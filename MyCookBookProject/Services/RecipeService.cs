@@ -59,6 +59,20 @@ namespace MyCookBookProject.Services
             return response.IsSuccessStatusCode;
         }
 
+        public async Task<bool> UpdateRecipeAsync(Recipe recipe)
+        {
+            if (string.IsNullOrWhiteSpace(recipe.recipeID))
+            {
+                return false;
+            }
+
+            var encodedID = Uri.EscapeDataString(recipe.recipeID);
+            var content = new StringContent(JsonConvert.SerializeObject (recipe), Encoding.UTF8, "application/json");
+            var response = await
+                _httpClient.PutAsJsonAsync($"{_baseUrl}/recipe/{encodedID}", content);
+            return response.IsSuccessStatusCode;
+        }
+
 
     }
 }

@@ -75,6 +75,22 @@ namespace MyCookBookProject.Controllers
 
         }
 
+        [HttpPut("Edit/{id}")]
+        public async Task<IActionResult> EditRecipe(string id, [FromBody] Recipe recipe)
+        {
+            if (recipe == null || string.IsNullOrWhiteSpace(recipe.name)
+                || recipe.ingredients == null || recipe.ingredients.Count == 0 ||
+                recipe.instructions == null || recipe.instructions.Count == 0 
+                || string.IsNullOrWhiteSpace(recipe.summary) || recipe.Categories == null)
+            {
+                return BadRequest(new { success = false, message = "Invalid recipe data" });
+            }
+
+            bool updated = await _recipeService.UpdateRecipeAsync(recipe);
+            return Json(new { success = updated, message = updated ? "Recipe updated successfully" : "Failed to update recipe." });
+
+        }
+
 
     }
 }
