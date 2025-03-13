@@ -29,7 +29,7 @@ namespace MyCookBookProject.Services
 
         public async Task<Recipe> GetRecipeByIDAsync(string id)
         {
-            var response = await _httpClient.GetAsync($"{_baseUrl}/recipe");
+            var response = await _httpClient.GetAsync($"{_baseUrl}/recipe/{id}");
             if (!response.IsSuccessStatusCode)
             {
                 return null;
@@ -68,8 +68,7 @@ namespace MyCookBookProject.Services
 
             var encodedID = Uri.EscapeDataString(recipe.recipeID);
             var content = new StringContent(JsonConvert.SerializeObject (recipe), Encoding.UTF8, "application/json");
-            var response = await
-                _httpClient.PutAsJsonAsync($"{_baseUrl}/recipe/{encodedID}", content);
+            var response = await _httpClient.PutAsync($"{_baseUrl}/recipe/{encodedID}", content);
             return response.IsSuccessStatusCode;
         }
 

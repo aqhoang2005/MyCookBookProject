@@ -49,7 +49,7 @@ namespace MyCookBookProject.Controllers
             return Json(recipe);
         }
 
-        //Search for Recipes (POST /Recipe/Search)
+        //Search for Recipes (POST /Recipe/Search
         [HttpPost("Search")]
         public async Task<IActionResult> SearchRecipes([FromBody] RecipeSearchRequest searchRequest)
         {

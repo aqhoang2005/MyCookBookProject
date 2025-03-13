@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "Index",
+    "RelativePath": "Recipe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "GetRecipeByID",
+    "RelativePath": "Recipe/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "AddRecipe",
+    "RelativePath": "Recipe/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recipe",
+        "Type": "MyCookBookProject.Models.Recipe",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "EditRecipe",
+    "RelativePath": "Recipe/Edit/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "recipe",
+        "Type": "MyCookBookProject.Models.Recipe",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "GetAllRecipes",
+    "RelativePath": "Recipe/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "SearchRecipes",
+    "RelativePath": "Recipe/Search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchRequest",
+        "Type": "MyCookBookProjectAPI.Models.RecipeSearchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
