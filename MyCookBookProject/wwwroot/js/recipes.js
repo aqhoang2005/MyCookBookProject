@@ -163,7 +163,8 @@
 <div>
  <button class="btn btn-warning btn-sm"
 onclick="editRecipe('${recipe.recipeID}')">Edit</button>
-
+<button class="btn btn-danger btn-sm"
+onclick="deleteRecipe('${recipe.recipeID}')">Delete</button>
  </div>
 <div class="row mt-2">
  <div class="col-md-6">
@@ -191,7 +192,8 @@ onclick="editRecipe('${recipe.recipeID}')">Edit</button>
     }
 
     // Handle category selection for edit modal
-    document.querySelectorAll("#editCategoryList .dropdown-item").forEach(item => {item.addEventListener("click", function (event) {
+    document.querySelectorAll("#editCategoryList .dropdown-item").forEach(item => {
+        item.addEventListener("click", function (event) {
             event.preventDefault();
             let categoryValue = parseInt(this.getAttribute("data-value"), 10);
             let categoryText = this.innerText;
@@ -258,16 +260,16 @@ onclick="editRecipe('${recipe.recipeID}')">Edit</button>
                 // Check each category option and mark selected if present in
                 `selectedCategories`
                 const categoryOptions = document.querySelectorAll("#editCategoryList .dropdown-item")
-                    categoryOptions.forEach(option => {
-                        let categoryValue = parseInt(option.getAttribute("data-value"),
-                            10); // Convert option value to a number
-                        if (selectedCategories.includes(categoryValue)) {
-                            option.classList.add("active"); // Visually indicate selected
-                            categories
-                        } else {
-                            option.classList.remove("active");
-                        }
-                    });
+                categoryOptions.forEach(option => {
+                    let categoryValue = parseInt(option.getAttribute("data-value"),
+                        10); // Convert option value to a number
+                    if (selectedCategories.includes(categoryValue)) {
+                        option.classList.add("active"); // Visually indicate selected
+                        categories
+                    } else {
+                        option.classList.remove("active");
+                    }
+                });
                 // Update dropdown button text with selected categories
                 document.getElementById("editCategoryDropdown").innerText =
                     selectedCategoryNames.length > 0 ? selectedCategoryNames.join(", ") : "Select Categories";
@@ -344,5 +346,25 @@ ${response.status}: ${text}`);
                 alert("Failed to update recipe: " + error.message);
             });
     };
+    window.deleteRecipe = function (recipeId) {
 
+        console.log("Attempting to delete recipe with ID:", recipeId); // Debugging
+        if (!recipeId) {
+            alert("RecipeID is undefined.")
+        }
+
+        if (!confirm("Are you sure you want to delete this recipe?")) return;
+
+        fetch(`${BASE_URL}/Delete/${recipeId}`, { method: "DELETE" })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    fetchRecipes();
+                }
+                else {
+                    alert("Failed to delete recipe: " + data.message);
+                }
+            })
+            .catch(error => console.error("Error deleting the recipe: ", error));
+    };
 });

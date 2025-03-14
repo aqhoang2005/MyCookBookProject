@@ -91,6 +91,18 @@ namespace MyCookBookProject.Controllers
 
         }
 
+        [HttpDelete("Delete/{id}")]
+        public async Task<IActionResult> DeleteRecipe(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                return BadRequest(new { success = false, message = "Invalid Recipe ID" });
+            }
+
+            bool deleted = await _recipeService.DeleteRecipeAsync(id);
+            return Json(new { success = deleted, message = deleted ? "Recipe deleted successfully." : "Failed to delete recipe" });
+
+        }
 
     }
 }

@@ -78,5 +78,17 @@ public class RecipeController : ControllerBase
     }
 
 
+    [HttpDelete("{id}")]
+    public IActionResult DeleteRecipe(string id)
+    {
+        var deleted = _recipeService.DeleteRecipe(id);
+        if (!deleted)
+        {
+            return NotFound();
+        }
+        return NoContent();
+    }
+
+
 
 }

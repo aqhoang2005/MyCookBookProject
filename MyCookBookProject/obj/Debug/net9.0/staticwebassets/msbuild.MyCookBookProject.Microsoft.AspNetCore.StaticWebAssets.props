@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7pn36eh03k</Fingerprint>
-      <Integrity>RZeLS8NspRCis+MeRY6oHeOvS98ddce3BI2RiW96Qaw=</Integrity>
+      <Fingerprint>tra97ggieu</Fingerprint>
+      <Integrity>ycWLCxqQXI9OvygY9z6jwYzuIOZEz9q/efp363TPEcw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\recipes.js'))</OriginalItemSpec>

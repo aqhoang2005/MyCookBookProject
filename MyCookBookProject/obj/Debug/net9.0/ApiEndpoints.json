@@ -43,6 +43,22 @@
   },
   {
     "ContainingType": "MyCookBookProject.Controllers.RecipeController",
+    "Method": "DeleteRecipe",
+    "RelativePath": "Recipe/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCookBookProject.Controllers.RecipeController",
     "Method": "EditRecipe",
     "RelativePath": "Recipe/Edit/{id}",
     "HttpMethod": "PUT",
