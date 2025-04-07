@@ -15,7 +15,7 @@
 		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="9.0.1" />
 		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-		<None Include="wwwroot/mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json">
+		<None Include="wwwroot/memes.json">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>

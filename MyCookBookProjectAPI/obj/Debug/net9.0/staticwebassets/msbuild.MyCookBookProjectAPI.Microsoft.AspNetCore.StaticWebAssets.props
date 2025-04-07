@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\memes.json'))">
       <SourceType>Package</SourceType>
       <SourceId>MyCookBookProjectAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MyCookBookProjectAPI</BasePath>
-      <RelativePath>mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json</RelativePath>
+      <RelativePath>memes.json</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -16,7 +16,7 @@
       <Integrity>1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\memes.json'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

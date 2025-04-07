@@ -3,8 +3,8 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.i2le1w10jy.json",
-      "AssetFile": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz",
+      "Route": "memes.i2le1w10jy.json",
+      "AssetFile": "memes.json.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -61,13 +61,13 @@
         },
         {
           "Name": "label",
-          "Value": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+          "Value": "memes.json"
         }
       ]
     },
     {
-      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.i2le1w10jy.json",
-      "AssetFile": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "Route": "memes.i2le1w10jy.json",
+      "AssetFile": "memes.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -106,13 +106,13 @@
         },
         {
           "Name": "label",
-          "Value": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+          "Value": "memes.json"
         }
       ]
     },
     {
-      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.i2le1w10jy.json.gz",
-      "AssetFile": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz",
+      "Route": "memes.i2le1w10jy.json.gz",
+      "AssetFile": "memes.json.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -159,13 +159,13 @@
         },
         {
           "Name": "label",
-          "Value": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz"
+          "Value": "memes.json.gz"
         }
       ]
     },
     {
-      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
-      "AssetFile": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz",
+      "Route": "memes.json",
+      "AssetFile": "memes.json.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -219,8 +219,8 @@
       ]
     },
     {
-      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
-      "AssetFile": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "Route": "memes.json",
+      "AssetFile": "memes.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -256,8 +256,8 @@
       ]
     },
     {
-      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz",
-      "AssetFile": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz",
+      "Route": "memes.json.gz",
+      "AssetFile": "memes.json.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

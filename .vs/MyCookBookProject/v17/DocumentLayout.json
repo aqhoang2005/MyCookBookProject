@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\mycookbookprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\mycookbookprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\servicesapi\\recipeserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\servicesapi\\recipeserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\repositoryapi\\firebasedbreciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\repositoryapi\\firebasedbreciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\mycookbookprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\mycookbookprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\models\\recipemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\repositoryapi\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\models\\recipesearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\models\\recipesearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookproject\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E024C18-36D1-479D-8968-1702A5ECEF3A}|MyCookBookProject\\MyCookBookProject.csproj|solutionrelative:mycookbookproject\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\servicesapi\\recipeserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|solutionrelative:mycookbookprojectapi\\servicesapi\\recipeserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DABA2B95-914D-4A01-B749-F608752065D8}|MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj|c:\\users\\austi\\onedrive - snhu\\cs-320 project\\mycookbookapp\\mycookbookproject\\mycookbookprojectapi\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,7 +146,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProject\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "MyCookBookProject\\Controllers\\RecipeController.cs",
@@ -159,45 +159,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "RecipeServiceAPI.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\ServicesAPI\\RecipeServiceAPI.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\ServicesAPI\\RecipeServiceAPI.cs",
               "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\ServicesAPI\\RecipeServiceAPI.cs",
               "RelativeToolTip": "MyCookBookProjectAPI\\ServicesAPI\\RecipeServiceAPI.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T17:21:13.967Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FirebaseDBRecipeRepository.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\RepositoryAPI\\FirebaseDBRecipeRepository.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\RepositoryAPI\\FirebaseDBRecipeRepository.cs",
               "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\RepositoryAPI\\FirebaseDBRecipeRepository.cs",
               "RelativeToolTip": "MyCookBookProjectAPI\\RepositoryAPI\\FirebaseDBRecipeRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwBMAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T21:54:41.315Z"
+              "WhenOpened": "2025-03-18T21:54:41.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Program.cs",
+              "RelativeToolTip": "MyCookBookProjectAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:16:48.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MyCookBookProjectAPI.csproj",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj",
               "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj",
               "RelativeToolTip": "MyCookBookProjectAPI\\MyCookBookProjectAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-27T23:21:29.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RecipeSearchRequest.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Models\\RecipeSearchRequest.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Models\\RecipeSearchRequest.cs",
@@ -210,18 +225,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Program.cs",
-              "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Program.cs",
-              "RelativeToolTip": "MyCookBookProjectAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:16:48.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "RecipeMedia.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\Models\\RecipeMedia.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\Models\\RecipeMedia.cs",
@@ -233,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IRecipeRepository.cs",
               "DocumentMoniker": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\RepositoryAPI\\IRecipeRepository.cs",
               "RelativeDocumentMoniker": "MyCookBookProjectAPI\\RepositoryAPI\\IRecipeRepository.cs",

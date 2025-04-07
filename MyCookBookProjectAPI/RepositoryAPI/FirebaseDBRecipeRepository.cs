@@ -17,7 +17,7 @@ namespace MyCookBookProjectAPI.RepositoryAPI
 
         public FirebaseDBRecipeRepository()
         {
-            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "wwwroot", "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json");
+            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "wwwroot", "memes.json");
 
             if (!File.Exists(path))
             {

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
-      "PackagePath": "staticwebassets\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+      "Id": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\memes.json",
+      "PackagePath": "staticwebassets\\memes.json"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyCookBookProjectAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
