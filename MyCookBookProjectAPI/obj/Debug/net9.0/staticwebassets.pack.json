@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "PackagePath": "staticwebassets\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyCookBookProjectAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyCookBookProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyCookBookProjectAPI.props",
+      "PackagePath": "build\\MyCookBookProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyCookBookProjectAPI.props",
+      "PackagePath": "buildMultiTargeting\\MyCookBookProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyCookBookProjectAPI.props",
+      "PackagePath": "buildTransitive\\MyCookBookProjectAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

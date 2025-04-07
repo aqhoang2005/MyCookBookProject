@@ -1,12 +1,362 @@
 {
   "Version": 1,
-  "Hash": "K5nee5Ele3IufHe4+N74IPVh5muxNhVmcSFfokCecdM=",
+  "Hash": "BBQsHqllJOowGNGa7Lat6K+jn1R21eBg4BQVXz20W7A=",
   "Source": "MyCookBookProjectAPI",
   "BasePath": "_content/MyCookBookProjectAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyCookBookProjectAPI\\wwwroot",
+      "Source": "MyCookBookProjectAPI",
+      "ContentRoot": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\",
+      "BasePath": "_content/MyCookBookProjectAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\obj\\Debug\\net9.0\\compressed\\uyf6ic6k9p-i2le1w10jy.gz",
+      "SourceId": "MyCookBookProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MyCookBookProjectAPI",
+      "RelativePath": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3#[.{fingerprint=i2le1w10jy}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9taihp5o5s",
+      "Integrity": "w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+    },
+    {
+      "Identity": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "SourceId": "MyCookBookProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\",
+      "BasePath": "_content/MyCookBookProjectAPI",
+      "RelativePath": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i2le1w10jy",
+      "Integrity": "1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.i2le1w10jy.json",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\obj\\Debug\\net9.0\\compressed\\uyf6ic6k9p-i2le1w10jy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000596302922"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1676"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 14:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2le1w10jy"
+        },
+        {
+          "Name": "label",
+          "Value": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.i2le1w10jy.json",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 14:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2le1w10jy"
+        },
+        {
+          "Name": "label",
+          "Value": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.i2le1w10jy.json.gz",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\obj\\Debug\\net9.0\\compressed\\uyf6ic6k9p-i2le1w10jy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 14:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2le1w10jy"
+        },
+        {
+          "Name": "label",
+          "Value": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\obj\\Debug\\net9.0\\compressed\\uyf6ic6k9p-i2le1w10jy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000596302922"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1676"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 14:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\wwwroot\\mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 14:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1mz9jp9Bhyez5Cw1BFcv2ApuvsJg9xac+08tePwzkbs="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookprojectdb-firebase-adminsdk-fbsvc-eb153278f3.json.gz",
+      "AssetFile": "C:\\Users\\austi\\OneDrive - SNHU\\CS-320 Project\\MyCookBookApp\\MyCookBookProject\\MyCookBookProjectAPI\\obj\\Debug\\net9.0\\compressed\\uyf6ic6k9p-i2le1w10jy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 14:44:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w/P+34qs4G6h/48w+tlTARkL8KHQg6M6jrfFfAmHssE="
+        }
+      ]
+    }
+  ]
 }

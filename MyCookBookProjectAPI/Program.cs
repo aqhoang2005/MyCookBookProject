@@ -18,7 +18,8 @@ builder.Services.AddControllers()
         options.SuppressModelStateInvalidFilter = true; // Disable automatic validation
     });
 
-builder.Services.AddSingleton<IRecipeRepository, MockRecipeRepository>();
+//builder.Services.AddSingleton<IRecipeRepository, MockRecipeRepository>();
+builder.Services.AddSingleton<IRecipeRepository, FirebaseDBRecipeRepository>();
 builder.Services.AddScoped<IRecipeService, RecipeServiceAPI>();
 
 builder.Services.AddControllers().AddJsonOptions(options =>
